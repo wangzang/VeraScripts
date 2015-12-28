@@ -1,0 +1,2 @@
+luup.inet.wget("https://prowl.weks.net/publicapi/add?apikey=c45253cc541650abe369501d60cc24a188efdce1&application=Vera&event=Test&description=TestAlert!&priority=-1")
+
